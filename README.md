@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Run this command in terminal if given below dependencies are not present
+npm i react react-dom react-router-dom react-scripts web-vitals
+
 In the project directory, you can run:
 
 ### `npm start`
